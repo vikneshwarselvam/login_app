@@ -1,0 +1,98 @@
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\DesignLogin.exe.config
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\DesignLogin.exe
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\DesignLogin.pdb
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csprojAssemblyReference.cache
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\MainWindow.g.cs
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\App.g.cs
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin_MarkupCompile.cache
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin_MarkupCompile.lref
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\MainWindow.baml
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.g.resources
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.Properties.Resources.resources
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.GenerateResource.cache
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.exe
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.pdb
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\MaterialDesignColors.dll
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\App.baml
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.CopyComplete
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\FormBienvenida.g.cs
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\FormError.g.cs
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\FormBienvenida.baml
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\FormError.baml
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\DesignLogin.exe.config
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\DesignLogin.exe
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\DesignLogin.pdb
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\MaterialDesignColors.dll
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\MaterialDesignColors.pdb
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csprojAssemblyReference.cache
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\FormBienvenida.g.cs
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\FormError.g.cs
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\MainWindow.g.cs
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\App.g.cs
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin_MarkupCompile.cache
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin_MarkupCompile.lref
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\App.baml
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\FormBienvenida.baml
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\FormError.baml
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\MainWindow.baml
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.g.resources
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.Properties.Resources.resources
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.GenerateResource.cache
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.CoreCompileInputs.cache
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.CopyComplete
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.exe
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.pdb
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csprojAssemblyReference.cache
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\FormError.g.cs
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\MainWindow.g.cs
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\App.g.cs
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DesignLogin_MarkupCompile.cache
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DesignLogin_MarkupCompile.lref
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DesignLogin.exe
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DesignLogin.pdb
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\DesignLogin.exe.config
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\DesignLogin.exe
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\DesignLogin.pdb
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\MaterialDesignColors.dll
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\App.baml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\FormError.baml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\MainWindow.baml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DesignLogin.g.resources
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DesignLogin.Properties.Resources.resources
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.GenerateResource.cache
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.CopyComplete
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DashboardForm.g.cs
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DashboardForm.baml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\FireSharp.dll
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\RestSharp.dll
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\RestSharp.xml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.App.config
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\RegisterForm.g.cs
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\RegisterForm.baml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\EditForm.g.cs
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\EditForm.baml
