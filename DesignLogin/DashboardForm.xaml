@@ -77,6 +77,8 @@
             ToolTip="Resource name: MaterialDesignRaisedButton" Margin="50,306,592,82" Background="#FF2B5BEB" BorderBrush="Transparent" Content="Edit" Click="BtnEdit_Click" Height="Auto"/>
         <RepeatButton
             ToolTip="Resource name: MaterialDesignRaisedButton" Margin="170,306,463,82" Background="#FF605ED6" BorderBrush="Transparent" Content="Logout" Height="Auto" Click="RepeatButton_Click"/>
+        <RepeatButton x:Name="btnEdit_Copy"
+            ToolTip="Resource name: MaterialDesignRaisedButton" Margin="90,363,504,26" Background="#FF2B5BEB" BorderBrush="Transparent" Content="Shared Memory" Click="btnShared_memory" Height="Auto"/>
 
 
     </Grid>

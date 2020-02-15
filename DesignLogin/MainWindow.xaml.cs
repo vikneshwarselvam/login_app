@@ -105,6 +105,13 @@ namespace DesignLogin
             register.Show();
 
         }
+
+        private void Forgot_Click(object sender, RoutedEventArgs e)
+        {
+            ForgetForm forgot = new ForgetForm();
+            forgot.Show();
+            this.Close();
+        }
     }
     
 }

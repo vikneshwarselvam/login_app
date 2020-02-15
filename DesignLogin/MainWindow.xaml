@@ -56,7 +56,7 @@
 
         <Button
     Style="{StaticResource MaterialDesignFlatButton}"
-    ToolTip="Forget Password" Margin="186,265.75,0,130.25" Height="24" Content="Forget Password" FontSize="7" FontWeight="Bold" HorizontalAlignment="Left" Width="109"/>
+    ToolTip="Forget Password" Margin="186,265.75,0,130.25" Height="24" Content="Forget Password" FontSize="7" FontWeight="Bold" HorizontalAlignment="Left" Width="109" Click="Forgot_Click"/>
         <RepeatButton x:Name="btnLogin"
             ToolTip="Resource name: MaterialDesignRaisedButton" Margin="49.833,305.693,610.167,82.306" Background="#FF2B5BEB" BorderBrush="Transparent" Content="Login" Click="BtnLogin_Click"/>
         <RepeatButton

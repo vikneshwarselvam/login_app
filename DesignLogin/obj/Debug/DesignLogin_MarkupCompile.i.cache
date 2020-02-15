@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\App.xaml
-51588667210
+71336387550
 
-11808042361
-130-756571190
-EditForm.xaml;RegisterForm.xaml;FormError.xaml;DashboardForm.xaml;MainWindow.xaml;
+13-1823953064
+130-901651689
+EditForm.xaml;ForgetForm.xaml;RegisterForm.xaml;FormError.xaml;DashboardForm.xaml;MainWindow.xaml;SharedMemory.xaml;
 
-False
+True
 

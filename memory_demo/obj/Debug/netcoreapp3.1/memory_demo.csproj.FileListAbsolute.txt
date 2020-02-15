@@ -1,0 +1,3 @@
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\memory_demo\obj\Debug\netcoreapp3.1\memory_demo.csprojAssemblyReference.cache
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\memory_demo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\memory_demo\obj\Debug\netcoreapp3.1\memory_demo_MarkupCompile.cache

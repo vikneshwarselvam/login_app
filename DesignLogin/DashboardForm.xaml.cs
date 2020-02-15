@@ -7,12 +7,13 @@ using System.Windows;
 using FireSharp.Config;
 using FireSharp.Response;
 using FireSharp.Interfaces;
+using System.IO.MemoryMappedFiles;
 
 namespace DesignLogin
 {
     public partial class DashboardForm : Window
     {
-
+         
         IFirebaseConfig config = new FirebaseConfig
         {
             AuthSecret = "CVkKYJnuJNpoais9SuXH04VPnB2xa4ASB8juWnJi",
@@ -29,7 +30,7 @@ namespace DesignLogin
         {
             this.Close();
         }
-
+        
         private async void BtnEdit_Click(object sender, RoutedEventArgs e)
         {
             client = new FireSharp.FirebaseClient(config);
@@ -43,6 +44,8 @@ namespace DesignLogin
             editForm.txt_Password.Password = obj.Password;
             this.Close();
             editForm.Show();
+            
+            
         }
 
         private void RepeatButton_Click(object sender, RoutedEventArgs e)
@@ -56,6 +59,22 @@ namespace DesignLogin
         private void Window_MouseLeftButtonDown(object sender, System.Windows.Input.MouseButtonEventArgs e)
         {
             this.DragMove();
+        }
+       
+        private void Test_1(object sender, RoutedEventArgs e)
+        {
+            MemoryMappedFile mmf = MemoryMappedFile.CreateNew("test", 1000);
+            MemoryMappedViewAccessor accessor = mmf.CreateViewAccessor();
+            accessor.Write(500, 42);
+            Console.WriteLine("Memory-mapped file created!");
+            Console.ReadLine();
+            accessor.Dispose();
+            mmf.Dispose();
+        }
+        private void btnShared_memory(object sender, RoutedEventArgs e)
+        {
+            SharedMemory sm = new SharedMemory();
+            sm.Show();
         }
     }
 }

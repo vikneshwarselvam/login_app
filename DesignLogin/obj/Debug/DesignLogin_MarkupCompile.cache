@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-c:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\
 DesignLogin
 none
 false
 DEBUG;TRACE
-c:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\App.xaml
-5-1866657764
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\App.xaml
+71336387550
 
-111142870563
-130822840485
-EditForm.xaml;RegisterForm.xaml;FormError.xaml;DashboardForm.xaml;MainWindow.xaml;
+121758306889
+130-901651689
+EditForm.xaml;ForgetForm.xaml;RegisterForm.xaml;FormError.xaml;DashboardForm.xaml;MainWindow.xaml;SharedMemory.xaml;
 
-True
+False
 

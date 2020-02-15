@@ -96,3 +96,11 @@ C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\Register
 C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\RegisterForm.baml
 C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\EditForm.g.cs
 C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\EditForm.baml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\ForgetForm.g.cs
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\ForgetForm.baml
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\DesignLogin.exe.manifest
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\bin\Debug\DesignLogin.application
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DesignLogin.exe.manifest
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\DesignLogin.application
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\SharedMemory.g.cs
+C:\Users\vikneshwar\Documents\c-sharp\DesignLogin\DesignLogin\obj\Debug\SharedMemory.baml
